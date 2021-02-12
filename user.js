@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  自动打包下载
 // @author       琴梨梨
-// @match        http://wx.zhlhh.com/Reader/Index?*
+// @match        http://wx.zhlhh.com/Reader/*?*
 // @match        http://zy.zhlhh.com/Downloader?*
 // @grant        none
 // @run-at        document-end
